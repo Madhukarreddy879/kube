@@ -1,4 +1,4 @@
-FROM 3.11.8-bullseye
+FROM python
 
 
 ENV PROJECT_ROOT /app
